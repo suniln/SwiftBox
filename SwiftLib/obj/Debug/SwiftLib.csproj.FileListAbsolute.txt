@@ -1,0 +1,6 @@
+C:\Dev\openstack\swiftbox\SwiftLib\bin\Debug\SwiftLib.dll
+C:\Dev\openstack\swiftbox\SwiftLib\bin\Debug\SwiftLib.pdb
+C:\Dev\openstack\swiftbox\SwiftLib\bin\Debug\RestSharp.dll
+C:\Dev\openstack\swiftbox\SwiftLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\openstack\swiftbox\SwiftLib\obj\Debug\SwiftLib.dll
+C:\Dev\openstack\swiftbox\SwiftLib\obj\Debug\SwiftLib.pdb

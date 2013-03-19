@@ -1,0 +1,13 @@
+C:\Dev\openstack\swiftbox\SwiftSync\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\openstack\swiftbox\SwiftSync\obj\x86\Debug\SwiftSync.Form1.resources
+C:\Dev\openstack\swiftbox\SwiftSync\obj\x86\Debug\SwiftSync.Properties.Resources.resources
+C:\Dev\openstack\swiftbox\SwiftSync\obj\x86\Debug\ResGen.read.1.tlog
+C:\Dev\openstack\swiftbox\SwiftSync\obj\x86\Debug\ResGen.write.1.tlog
+C:\Dev\openstack\swiftbox\SwiftSync\bin\Debug\SwiftSync.exe
+C:\Dev\openstack\swiftbox\SwiftSync\bin\Debug\SwiftSync.pdb
+C:\Dev\openstack\swiftbox\SwiftSync\bin\Debug\RestSharp.dll
+C:\Dev\openstack\swiftbox\SwiftSync\bin\Debug\SwiftLib.dll
+C:\Dev\openstack\swiftbox\SwiftSync\bin\Debug\SwiftLib.pdb
+C:\Dev\openstack\swiftbox\SwiftSync\obj\x86\Debug\SwiftSync.exe
+C:\Dev\openstack\swiftbox\SwiftSync\obj\x86\Debug\SwiftSync.pdb
+C:\Dev\openstack\swiftbox\SwiftSync\bin\Debug\SwiftSync.exe.config
